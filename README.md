@@ -32,23 +32,6 @@ The repository also includes example notebooks in the `notebooks/` directory tha
 ## Contributing
 Contributions are welcome! If you have additional hypersonic data, improvements to documentation, or analysis scripts, feel free to submit a pull request.
 
-## How to Push to GitHub
-1. **Initialize the repository (if not already)**
-   ```bash
-   cd "C:/Users/DELL/Downloads/hypersonic Physic dataset model"
-   git init
-   git remote add origin https://github.com/aurthur001-oss/Hypersonic-Dataset-.git
-   ```
-2. **Add files and commit**
-   ```bash
-   git add .
-   git commit -m "Initial commit – add dataset and README"
-   ```
-3. **Push to GitHub**
-   ```bash
-   git push -u origin master
-   ```
-Make sure you have write access to the GitHub repository. If authentication is required, configure your Git credentials or use a personal access token.
 
 ---
-*Generated on 2026‑06‑25*
+*Verified on 2026‑06‑25*
