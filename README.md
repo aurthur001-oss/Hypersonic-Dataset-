@@ -14,7 +14,7 @@ This repository hosts the **Hypersonic Physics Dataset**, a curated collection o
   - `notebooks/` – Example Jupyter notebooks demonstrating data loading and basic analysis.
 
 ## Authors
-- **Dr. Arthur Aurthur** – Rocket and Aeronautical Engineer (Creator of the dataset).
+- **Dr. Aurthur** – Rocket and Aeronautical Engineer (Creator of the dataset).
 
 ## License
 The dataset is released under the **MIT License**. See the `LICENSE` file for details.
