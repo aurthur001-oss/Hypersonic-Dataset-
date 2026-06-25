@@ -14,10 +14,12 @@ This repository hosts the **Hypersonic Physics Dataset**, a curated collection o
   - `notebooks/` – Example Jupyter notebooks demonstrating data loading and basic analysis.
 
 ## Authors
-- **Dr. Aurthur** – Rocket and Aeronautical Engineer (Creator of the dataset).
+- **Dr. Aurthur Vimalachandran** – Rocket and Aeronautical Engineer (Creator of the dataset).
 
 ## License
-The dataset is released under the **MIT License**. See the `LICENSE` file for details.
+This dataset is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.  
+You are free to use, share, and adapt the data for any purpose — including commercial use — as long as you give appropriate credit to **Dr. Aurthur Vimalachandran**.  
+[![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
 ## Usage
 ```python

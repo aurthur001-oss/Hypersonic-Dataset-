@@ -51,14 +51,16 @@ The **Hypersonic Physics Dataset** is a comprehensive collection of data collect
 
 ---
 ## Access & License
-The dataset is released under the **MIT License**, allowing free use, modification, and distribution. See the `LICENSE` file for full terms.
+This dataset is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.  
+You are free to use, share, and adapt the data for any purpose — including commercial use — as long as appropriate credit is given to **Dr. Aurthur Vimalachandran**.  
+Full license text: https://creativecommons.org/licenses/by/4.0/
 
 ---
 ## Citation
 If you use this dataset in research publications, please cite:
 ```
-Aurthur, A. (2026). Hypersonic Physics Dataset. https://github.com/aurthur001-oss/Hypersonic-Dataset-
+Vimalachandran, A. (2026). Hypersonic Physics Dataset. https://github.com/aurthur001-oss/Hypersonic-Dataset-
 ```
 
 ---
-*Generated on 2026‑06‑25*
+*Verified on 2026‑06‑25 · Dr. Aurthur Vimalachandran*
